@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with deploying ml applications 
 - 💬 Ask me about Python, R, GIS, Data Science
 - 📫 How to reach me: asadalebaig(Linkedin)
-- 😄 Pronouns: He/Her
+- 😄 Pronouns: He/Him
 
